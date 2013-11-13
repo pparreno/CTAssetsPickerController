@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>43871FCD-1F14-4F80-AB8D-FFFFD872A7DB</string>
+	<string>ACED6A62-C9C2-42DD-9CA6-17C48B56110D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CTAssetsPickerDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>488F91C1-C4B2-4D03-BFC8-C209FCF18052</key>
-		<string>https://github.com/chiunam/CTAssetsPickerViewController.git</string>
+		<key>358528FA-0B36-48E5-900E-DDB0D0968D57</key>
+		<string>http://github.com/pparreno/CTAssetsPickerController</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CTAssetsPickerDemo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>488F91C1-C4B2-4D03-BFC8-C209FCF18052</key>
+		<key>358528FA-0B36-48E5-900E-DDB0D0968D57</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/chiunam/CTAssetsPickerViewController.git</string>
+	<string>ssh://arcanys.repos/parents-best-memories/parents-best-memories.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>488F91C1-C4B2-4D03-BFC8-C209FCF18052</string>
+	<string>358528FA-0B36-48E5-900E-DDB0D0968D57</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>488F91C1-C4B2-4D03-BFC8-C209FCF18052</string>
+			<string>358528FA-0B36-48E5-900E-DDB0D0968D57</string>
 			<key>IDESourceControlWCCName</key>
-			<string>CTAssetsPickerDemo</string>
+			<string>CTAssetsPickerController-pparreno</string>
 		</dict>
 	</array>
 </dict>
